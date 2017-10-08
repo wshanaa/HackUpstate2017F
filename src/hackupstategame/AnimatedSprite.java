@@ -13,7 +13,7 @@ import java.awt.Image;
  *
  * @author ken
  */
-public class AnimatedSprite implements Sprite {
+/*public class AnimatedSprite implements Sprite {
     
     private class AnimationData {
         public Image[] images;
@@ -38,3 +38,4 @@ public class AnimatedSprite implements Sprite {
         
     }
 }
+*/
